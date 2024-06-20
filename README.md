@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SHIVAM-YADAV-1012
-- 👀 I’m interested in ...web devloper and creating more projects
-- 🌱 I’m currently learning ...fullstack web devloper
+- 👀 I’m interested in ...web developer and creating more projects
+- 🌱 I’m currently learning ...fullstack web developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...linkedin.com/in/shivam-yadav-376307246
 
